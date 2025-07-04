@@ -1,4 +1,4 @@
-# Utilizing AI-Driven Technology and Geospatial Analysis to Explore Landscape Morphology, Social Vulnerability, and Child Neglect in Los Angeles
+## Utilizing AI-Driven Technology and Geospatial Analysis to Explore Landscape Morphology, Social Vulnerability, and Child Neglect in Los Angeles
 
 This repository contains the code associated with the project entitled **"Utilizing AI-Driven Technology and Geospatial Analysis to Explore Landscape Morphology, Social Vulnerability, and Child Neglect in Los Angeles"** that was presented at **ISUF - Urban Morphology in the Age of Artificial Intelligence** in Torino, Italy, June 2025.
 
