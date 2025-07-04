@@ -32,8 +32,4 @@ from zensvi import ZenSVI
 zsv = ZenSVI(data_path="path/to/your/streetview/images")
 
 # Run perception classification (e.g., 'safety', 'boring', 'lively')
-zsv.run_perception_classification(perception_study='safety')
-
-# Extract features and analyze spatial vulnerability
-zsv.extract_features()
-zsv.analyze_spatial_vulnerability()
+classifier = ClassifierPerception(perception_study=indicator)
