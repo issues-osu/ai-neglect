@@ -3,6 +3,15 @@
 This repository contains the code associated with the project entitled **"Utilizing AI-Driven Technology and Geospatial Analysis to Explore Landscape Morphology, Social Vulnerability, and Child Neglect in Los Angeles"** that was presented at **ISUF - Urban Morphology in the Age of Artificial Intelligence** in Torino, Italy, June 2025.
 
 ---
+## Using GPU Acceleration and Google Colab
+
+To speed up processing and handle large datasets efficiently, this project supports GPU acceleration, which is especially useful for machine learning tasks like perception classification.
+
+We recommend running the code on **Google Colab**, which provides free access to GPUs and an easy-to-use cloud environment. The Colab notebook is pre-configured with the necessary dependencies and allows you to upload your Street View image data, run ZenSVI’s models on GPU, and visualize results without local hardware constraints.
+
+Using GPU significantly reduces runtime compared to CPU-only environments, enabling faster feature extraction and vulnerability analysis. For best performance, ensure you enable GPU acceleration in the Colab runtime settings:
+
+`Runtime > Change runtime type > GPU`
 
 ## Installing ZenSVI
 
